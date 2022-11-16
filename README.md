@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Victorblaze09
-- 👀 I’m interested in learning about GitHub.
+- 👀 I’m interested in learning GitHub.
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me 09022210928.
